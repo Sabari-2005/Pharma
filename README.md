@@ -94,7 +94,7 @@ Publish the website in the given URL.
             padding: 0;
             margin: 0;
             display: flex;
-            justify-content: center;
+            justify-content: center; 
             align-items: center;
         }
 
